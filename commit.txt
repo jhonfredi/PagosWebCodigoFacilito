@@ -1,0 +1,23 @@
+commit 01e2303d6b2204b64731086ce5312e90f58a472f
+Author: fredi <jhonfredy-arias@hotmail.com>
+Date:   Wed Apr 4 10:41:03 2018 -0500
+
+    Se cambia Horizont por Sistema de pago web
+
+commit 3921f723cdc7378f9d1ef633cc3ec545ad296060
+Author: fredi <jhonfredy-arias@hotmail.com>
+Date:   Tue Apr 3 23:35:13 2018 -0500
+
+    Se elimna boton sing up
+
+commit 084bc6275f11ce9c795bdccab170f659e9f97bf2
+Author: fredi <jhonfredy-arias@hotmail.com>
+Date:   Tue Apr 3 23:19:46 2018 -0500
+
+    se cambia inicio a principal
+
+commit f2a4e6aa6d429f5353cf39a6e5965a350bd1b0cb
+Author: fredi <jhonfredy-arias@hotmail.com>
+Date:   Tue Apr 3 23:09:47 2018 -0500
+
+    mi primer commit
